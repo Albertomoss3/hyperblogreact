@@ -1,6 +1,6 @@
 Esta es la historia de Alberto Noriega
 
-Alberto Noriega vivie en el estado de Mexico
+Alberto Noriega vivie en el estado de USA
 Es un poco alto y tiene lentes
 
 Estamos tomando el curso de Git y Github
