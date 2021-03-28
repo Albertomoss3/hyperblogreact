@@ -1,8 +1,10 @@
-Hablemos de su vida de Alberto Noriega
+Esta es la historia de Alberto Noriega
 
 Alberto Noriega vivie en el estado de USA
 Es un poco alto y tiene lentes
 
 Estamos tomando el curso de Git y Github
 
-Esta trando de encontrar trabajo ojala lo consiga jeje
+Esta trando de encontrar trabajo jeje
+
+Mañana nos enfocaremos en su vida laborar
